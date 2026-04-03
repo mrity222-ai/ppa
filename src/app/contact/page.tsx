@@ -5,7 +5,6 @@ import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
 import { Label } from '@/components/ui/label';
 import { Mail, Phone, MapPin, Send, MessageCircle, Clock, ShieldCheck } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
@@ -152,15 +151,6 @@ export default function ContactPage() {
                         placeholder="e.g. Inspector, Teacher, Clerk" 
                         className="h-14 border-slate-200 focus:border-primary focus:ring-primary/20 transition-all rounded-2xl bg-slate-50/50" 
                         required 
-                      />
-                    </div>
-
-                    <div className="space-y-3">
-                      <Label htmlFor="message" className="text-sm font-bold text-slate-700 ml-1">Message / संदेश</Label>
-                      <Textarea 
-                        id="message" 
-                        placeholder="How can we help you today?" 
-                        className="min-h-[160px] border-slate-200 focus:border-primary focus:ring-primary/20 transition-all rounded-2xl bg-slate-50/50 resize-none p-5" 
                       />
                     </div>
 
