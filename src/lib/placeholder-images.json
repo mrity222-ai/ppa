@@ -1,0 +1,154 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Professional association meeting",
+      "imageUrl": "https://picsum.photos/seed/ppa-hero/1920/1080",
+      "imageHint": "office building meeting"
+    },
+    {
+      "id": "hero-collage-1",
+      "description": "Child smiling",
+      "imageUrl": "/1.jpg",
+      "imageHint": "smiling child"
+    },
+    {
+      "id": "hero-collage-2",
+      "description": "Community support",
+      "imageUrl": "/2.jpg",
+      "imageHint": "community support"
+    },
+    {
+      "id": "hero-collage-3",
+      "description": "Elderly assistance",
+      "imageUrl": "/3.jpg",
+      "imageHint": "helping elderly"
+    },
+    {
+      "id": "hero-collage-4",
+      "description": "Volunteer work",
+      "imageUrl": "https://picsum.photos/seed/volunteer1/400/400",
+      "imageHint": "volunteer working"
+    },
+    {
+      "id": "hero-collage-5",
+      "description": "Education support",
+      "imageUrl": "https://picsum.photos/seed/edu1/400/500",
+      "imageHint": "teaching children"
+    },
+    {
+      "id": "about-img",
+      "description": "Team collaborating",
+      "imageUrl": "/5.jpg",
+      "imageHint": "teamwork collaboration"
+    },
+    {
+      "id": "news-1",
+      "description": "Community celebration",
+      "imageUrl": "/1.jpg",
+      "imageHint": "happy person celebration"
+    },
+    {
+      "id": "news-2",
+      "description": "Professional team group",
+      "imageUrl": "/3.jpg",
+      "imageHint": "professional team group"
+    },
+    {
+      "id": "news-3",
+      "description": "Therapy or support session",
+      "imageUrl": "/7.jpg",
+      "imageHint": "group therapy session"
+    },
+    {
+      "id": "news-4",
+      "description": "Inspiring volunteer at work",
+      "imageUrl": "/4.jpg",
+      "imageHint": "volunteer helping elder"
+    },
+    {
+      "id": "event-1",
+      "description": "Conference hall",
+      "imageUrl": "/1.jpg",
+      "imageHint": "conference hall"
+    },
+    {
+      "id": "member-1",
+      "description": "Member headshot 1",
+      "imageUrl": "/bs.jpg",
+      "imageHint": "professional headshot man"
+    },
+    {
+      "id": "member-2",
+      "description": "Member headshot 2",
+      "imageUrl": "https://picsum.photos/seed/m2/400/400",
+      "imageHint": "professional headshot woman"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Annual Felicitation Ceremony",
+      "imageUrl": "/1.jpg",
+      "imageHint": "award ceremony"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Health Camp 2025",
+      "imageUrl": "/2.jpg",
+      "imageHint": "medical checkup"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Quarterly Meeting",
+      "imageUrl": "/3.jpg",
+      "imageHint": "business meeting"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Legal Aid Workshop",
+      "imageUrl": "/4.jpg",
+      "imageHint": "workshop training"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Republic Day Celebration",
+      "imageUrl": "/5.jpg",
+      "imageHint": "cultural festival"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Members Gathering",
+      "imageUrl": "/6.jpg",
+      "imageHint": "group photo"
+    },
+    {
+      "id": "stat-1",
+      "description": "Community child portrait",
+      "imageUrl": "/3.jpg",
+      "imageHint": "child portrait"
+    },
+    {
+      "id": "stat-2",
+      "description": "Elder member portrait",
+      "imageUrl": "/6.jpg",
+      "imageHint": "elder portrait"
+    },
+    {
+      "id": "stat-3",
+      "description": "Volunteer portrait",
+      "imageUrl": "/5.jpg",
+      "imageHint": "volunteer portrait"
+    },
+    {
+      "id": "stat-4",
+      "description": "Happy member portrait",
+      "imageUrl": "/7.jpg",
+      "imageHint": "happy portrait"
+    },
+    {
+      "id": "ppa-logo",
+      "description": "PPA Association Logo",
+      "imageUrl": "https://picsum.photos/seed/ppa-logo/200/200",
+      "imageHint": "shield icon"
+    }
+  ]
+}
