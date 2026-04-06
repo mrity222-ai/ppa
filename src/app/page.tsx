@@ -31,10 +31,10 @@ export default function Home() {
     },
     {
       date: 'June 5, 2025',
-      title: 'Our Team Expands to 5000+ Members',
+      title: 'Our Team Expands to 500+ Members',
       category: 'Growth',
       image: PlaceHolderImages.find(img => img.id === 'news-2')?.imageUrl || '',
-      description: 'We are proud to reach a milestone of 5000 active members across UP.'
+      description: 'We are proud to reach a new milestone of active members across UP.'
     }
   ];
 
@@ -60,10 +60,7 @@ export default function Home() {
                 
                 <div className="space-y-4">
                   <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight tracking-tight">
-                    <span className="block font-headline text-slate-900 leading-none">प्रांतीय पेंशनर्स एसोसिएशन</span>
-                    <span className="bg-gradient-to-r from-primary to-rose-600 bg-clip-text text-transparent font-extrabold text-2xl md:text-5xl block mt-2">
-                      PPA Lucknow
-                    </span>
+                    <span className="block font-headline text-slate-900 leading-none">प्रांतीय पेंशनर्स एसोसिएशन PPA Lucknow</span>
                   </h1>
                   <p className="text-xl md:text-2xl text-primary font-bold italic font-headline">
                     "सेवा से सम्मान तक – हम आपके साथ हैं"
@@ -141,7 +138,7 @@ export default function Home() {
                     <div className="w-10 h-10 bg-primary/10 rounded-xl flex items-center justify-center text-primary mb-4">
                       <Users className="w-5 h-5" />
                     </div>
-                    <h4 className="text-3xl font-bold text-slate-900">10k+</h4>
+                    <h4 className="text-3xl font-bold text-slate-900">500+</h4>
                     <p className="text-xs text-slate-400 font-bold uppercase tracking-widest mt-1">Active Members</p>
                   </div>
                   <div className="p-6 bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition-all">
