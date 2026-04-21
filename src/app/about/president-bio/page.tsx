@@ -45,7 +45,6 @@ export default function PresidentBioPage() {
                 <Image src={presidentImg?.imageUrl || ''} alt="President" fill className="object-cover" priority />
                 <div className="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black/80 to-transparent text-white">
                   <p className="text-xs font-bold uppercase tracking-widest opacity-80">President, PPA</p>
-                  <h2 className="text-2xl font-bold leading-tight">Shri Vishun Dev Yadav</h2>
                 </div>
               </div>
               <div className="space-y-4">
