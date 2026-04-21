@@ -30,6 +30,8 @@ export function Navbar() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  const WHATSAPP_CHANNEL_URL = 'https://whatsapp.com/channel/0029VbCGfvKBVJlD3Aj4hV0y';
+
   return (
     <header className={cn(
       'sticky top-0 z-50 w-full transition-all duration-300 border-b',
@@ -69,7 +71,7 @@ export function Navbar() {
           {/* Action Button */}
           <div className="hidden lg:flex items-center gap-4">
             <Button asChild size="sm" className="bg-[#25D366] hover:bg-[#128C7E] text-white border-none rounded-full px-5 font-bold shadow-md">
-              <a href="https://whatsapp.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+              <a href={WHATSAPP_CHANNEL_URL} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                 <MessageCircle className="w-4 h-4" /> Join WhatsApp
               </a>
             </Button>
@@ -106,7 +108,7 @@ export function Navbar() {
           ))}
           <div className="pt-4 border-t flex flex-col gap-3">
             <Button asChild className="w-full h-12 rounded-xl bg-[#25D366] font-bold">
-              <a href="https://whatsapp.com" target="_blank" rel="noopener noreferrer">
+              <a href={WHATSAPP_CHANNEL_URL} target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="w-4 h-4 mr-2" /> Join WhatsApp Group
               </a>
             </Button>
