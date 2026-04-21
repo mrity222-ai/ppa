@@ -91,7 +91,7 @@ export function Footer() {
                 <div className="w-11 h-11 rounded-xl bg-slate-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white group-hover:shadow-lg group-hover:shadow-primary/20 transition-all duration-300 shrink-0">
                   <Phone className="w-5 h-5" />
                 </div>
-                <p className="text-slate-500 text-sm font-bold">+91 9532341000</p>
+                <p className="text-slate-500 text-sm font-bold">+91 99352 12121</p>
               </div>
               <div className="flex items-center gap-4 group">
                 <div className="w-11 h-11 rounded-xl bg-slate-50 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white group-hover:shadow-lg group-hover:shadow-primary/20 transition-all duration-300 shrink-0">

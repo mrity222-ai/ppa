@@ -60,7 +60,7 @@ export default function ContactPage() {
                     </div>
                     <div className="space-y-1">
                       <h3 className="font-bold text-xl text-slate-900">Call Us</h3>
-                      <p className="text-slate-500 text-base font-bold">+91 9532341000</p>
+                      <p className="text-slate-500 text-base font-bold">+91 99352 12121</p>
                       <p className="text-[10px] text-slate-400 font-bold uppercase tracking-widest">Mon - Sat: 10:00 AM – 5:00 PM</p>
                     </div>
                   </div>
@@ -86,9 +86,6 @@ export default function ContactPage() {
                 <p className="text-white/80 text-sm mb-8 leading-relaxed font-medium">
                   Active members get priority support for pension disputes, medical claims, and legal documentation.
                 </p>
-                <Button className="w-full bg-white text-primary hover:bg-white/90 rounded-full h-14 font-bold shadow-lg transition-all hover:scale-[1.02] active:scale-95">
-                  Become a Member
-                </Button>
               </div>
             </div>
 
@@ -111,7 +108,7 @@ export default function ContactPage() {
                         <Label htmlFor="mobile" className="text-sm font-bold text-slate-700 ml-1">Mobile Number / मोबाइल *</Label>
                         <Input 
                           id="mobile" 
-                          placeholder="+91 95323XXXXX" 
+                          placeholder="+91 99352 XXXXX" 
                           className="h-14 border-slate-200 focus:border-primary focus:ring-primary/20 transition-all rounded-2xl bg-slate-50/50" 
                           required 
                         />
