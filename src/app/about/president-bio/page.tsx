@@ -66,7 +66,7 @@ export default function PresidentBioPage() {
                   Official Service Record / सेवा विवरण
                 </Badge>
                 <h1 className="text-4xl md:text-5xl font-bold text-slate-900 leading-tight">
-                  Shri Vishun Dev Yadav <br />
+                  Shri Bishun Dev Yadav <br />
                   <span className="text-primary font-medium text-2xl md:text-3xl italic">DSP (Retired), PPS</span>
                 </h1>
               </div>

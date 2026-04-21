@@ -138,7 +138,7 @@ export default function AboutPage() {
               <div className="flex-grow space-y-6 text-center md:text-left">
                 <div className="space-y-2">
                   <Badge className="bg-primary text-white border-none rounded-full px-4 py-1 text-[10px] font-bold uppercase tracking-widest">President's Message</Badge>
-                  <h3 className="text-3xl font-bold text-slate-900">Shri Vishun Dev Yadav</h3>
+                  <h3 className="text-3xl font-bold text-slate-900">Shri Bishun Dev Yadav</h3>
                   <p className="text-primary font-bold tracking-widest uppercase text-sm">President, PPA Lucknow (DSP Retired)</p>
                 </div>
                 <div className="space-y-4">
