@@ -26,7 +26,7 @@ export default function PresidentBioPage() {
     { label: "Posting District", value: "LUCKNOW" },
     { label: "Date of Recruitment", value: "05/06/2020 (PPS Rank)" },
     { label: "Cadre, PPS Year", value: "OTH 2019" },
-    { label: "Mobile Number", value: "+91 9454401649" },
+    { label: "Mobile Number", value: "+91 99352 12121" },
   ];
 
   return (
