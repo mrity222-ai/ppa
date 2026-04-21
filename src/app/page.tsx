@@ -79,8 +79,8 @@ export default function Home() {
 
                 <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center lg:justify-start">
                   <Button asChild size="lg" className="rounded-xl px-10 h-14 text-lg font-bold bg-primary text-white shadow-lg transition-all hover:scale-105 active:scale-95">
-                    <Link href="/login" className="flex items-center gap-2">
-                      Join Now <ArrowRight className="w-5 h-5" />
+                    <Link href="/contact" className="flex items-center gap-2">
+                      Get in Touch <ArrowRight className="w-5 h-5" />
                     </Link>
                   </Button>
                   <Button asChild variant="outline" size="lg" className="rounded-xl px-10 h-14 text-lg font-bold border-2 border-slate-200 text-slate-700 hover:bg-slate-50 transition-all hover:scale-105">
@@ -260,14 +260,11 @@ export default function Home() {
               <div className="absolute top-0 right-0 w-64 h-64 bg-primary/10 rounded-full blur-[100px] -mr-32 -mt-32" />
               <div className="relative z-10 flex flex-col lg:flex-row items-center justify-between gap-12">
                 <div className="space-y-6 max-w-2xl">
-                  <Badge className="bg-primary text-white border-none px-4 py-1 text-[10px] uppercase font-bold tracking-widest">Join the association</Badge>
+                  <Badge className="bg-primary text-white border-none px-4 py-1 text-[10px] uppercase font-bold tracking-widest">Connect with Us</Badge>
                   <h2 className="text-4xl md:text-6xl font-bold text-white leading-tight">Secure Your Future with PPA Today</h2>
                   <p className="text-lg text-slate-400">Join a legacy of service and ensure your dignity post-retirement.</p>
                 </div>
                 <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
-                  <Button asChild size="lg" className="rounded-2xl h-16 px-10 text-lg font-bold bg-primary text-white border-none shadow-xl hover:scale-105 transition-all">
-                    <Link href="/login">Become a Member</Link>
-                  </Button>
                   <Button asChild variant="outline" size="lg" className="rounded-2xl h-16 px-10 text-lg font-bold bg-transparent text-white border-white/20 hover:bg-white/10 transition-all">
                     <Link href="/contact">Contact Us</Link>
                   </Button>
