@@ -49,7 +49,7 @@ export default function ContactPage() {
                     <div className="space-y-1">
                       <h3 className="font-bold text-xl text-slate-900">Office Address</h3>
                       <p className="text-slate-500 text-sm leading-relaxed font-medium">
-                        G1/0049, Olive Wood Villa, Golf City, <br />Lucknow, Uttar Pradesh – 226002
+                        House No. 9, Semara, Chinhat, <br />Gomti Nagar, Lucknow – 226028 Uttar Pradesh, India
                       </p>
                     </div>
                   </div>

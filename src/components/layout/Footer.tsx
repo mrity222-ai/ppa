@@ -62,7 +62,7 @@ export function Footer() {
               <span className="absolute -bottom-2 left-0 w-8 h-1 bg-primary rounded-full"></span>
             </h4>
             <ul className="space-y-4">
-              {['Become a Member', 'Volunteer Support', 'Privacy Policy', 'Terms of Service'].map((item) => (
+              {['Volunteer Support', 'Privacy Policy', 'Terms of Service'].map((item) => (
                 <li key={item}>
                   <Link href="#" className="flex items-center text-slate-500 font-bold text-sm hover:text-primary transition-all duration-300 border-b border-transparent hover:border-primary/20 pb-1">
                     {item}
@@ -84,7 +84,7 @@ export function Footer() {
                   <MapPin className="w-5 h-5" />
                 </div>
                 <p className="text-slate-500 text-[11px] font-bold leading-relaxed uppercase tracking-wider pt-1">
-                  G1/0049, Olive Wood Villa, Golf City, Lucknow, Uttar Pradesh – 226002
+                  House No. 9, Semara, Chinhat, Gomti Nagar, Lucknow – 226028 Uttar Pradesh, India
                 </p>
               </div>
               <div className="flex items-center gap-4 group">
